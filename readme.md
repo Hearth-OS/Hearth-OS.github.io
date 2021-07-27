@@ -14,9 +14,9 @@ Check out our amazing [sponsors](sponsors.md).
 
 ## Join in on the fun!
 ### Discord
-<iframe src="https://discord.com/widget?id=849828750941093909&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=851596993058177065&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-Join [Discord](https://discord.gg/aQMHv95FAh).
+Join [Discord](https://discord.gg/5xfxWMMbHM).
 
 ### Nertivia
 Join [Nertivia](https://nertivia.net/i/sDLpmg).
